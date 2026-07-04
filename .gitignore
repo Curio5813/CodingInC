@@ -8,8 +8,7 @@ build/
 
 *CMakeLists.txt
 
-# Ignorar ficheiros sem extensão gerados na raiz (Linux/macOS)
- Ignorar binários compilados nas pastas de exercícios (Linux/macOS)
+# Ignorar binários compilados nas pastas de exercícios (Linux/macOS)
 beecrowd/*
 !beecrowd/*/
 !beecrowd/**/*.c
