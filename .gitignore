@@ -1,6 +1,8 @@
-library.h
-CMakeLists.txt
+# Configurações do CLion / IntelliJ
+.idea/
+
+# Pastas de compilação do CMake
 cmake-build-debug/
 cmake-build-release/
-.idea/
-*.xml
+build/
+

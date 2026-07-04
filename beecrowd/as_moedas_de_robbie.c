@@ -26,7 +26,6 @@ int main(){
 			moedas += v_r[n];
 			n += salto;
 		}
-
 		if(moedas == 1){
 			printf("Bad boy! I’ll hit you.\n");
 		}
