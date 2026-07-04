@@ -1,3 +1,0 @@
-/home/marcos/Computacao/CodingInC/cmake-build-debug/CMakeFiles/CodingInC.dir
-/home/marcos/Computacao/CodingInC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/marcos/Computacao/CodingInC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
