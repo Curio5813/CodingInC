@@ -8,3 +8,20 @@ build/
 
 *CMakeLists.txt
 
+# Ignorar ficheiros sem extensão gerados na raiz (Linux/macOS)
+ Ignorar binários compilados nas pastas de exercícios (Linux/macOS)
+beecrowd/*
+!beecrowd/*/
+!beecrowd/**/*.c
+!beecrowd/**/*.h
+
+CodeAbbey/*
+!CodeAbbey/*/
+!CodeAbbey/**/*.c
+!CodeAbbey/**/*.h
+
+Personal/*
+!Personal/*/
+!Personal/**/*.c
+!Personal/**/*.h
+
